@@ -13,4 +13,17 @@ These KPIs help give a quick snapshot of the store’s overall performance.
 
 ## dataset used
 - <a href="https://github.com/vivek092001/Data-Analysis--Dashboard/blob/main/Sample%20-%20Superstore.xls">superstore dataset</a>
+Dataset:
 
+## Questions KPIs
+-Total sales
+-Profitability
+-Total profit
+-Customer Metrics
+-Order Metrics:
+-Inventory and Stock Management
+-Shipping and Delivery Metrics
+-Discounts and Promotions
+-Region/Geography Performance
+
+-Dashboard Interaction <a href = "https://github.com/vivek092001/Data-Analysis--Dashboard/blob/main/Superstore_dashboard_image.png">View Dashboard</a>
