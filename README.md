@@ -12,5 +12,5 @@ Number of Orders: Total number of orders placed by customers.
 These KPIs help give a quick snapshot of the store’s overall performance.
 
 ## dataset used
-- <a href="https://www.kaggle.com/datasets/vivek468/superstore-dataset-final?resource=download">superstore dataset</a>
+- <a href="https://github.com/vivek092001/Data-Analysis--Dashboard/blob/main/Sample%20-%20Superstore.xls">superstore dataset</a>
 
